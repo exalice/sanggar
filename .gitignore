@@ -1,0 +1,6 @@
+.sass-cache/
+*.css.map
+sass/
+css/partials
+*rb
+*.cfg
